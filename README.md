@@ -13,7 +13,7 @@
 
 # Tools I Used
 
-- **SQL:** 
-- **PostgreSQL:** 
-- **Visual Studio Code:** 
-- **Git & GitHub:** 
+- **SQL** 
+- **PostgreSQL** 
+- **Visual Studio Code** 
+- **Git & GitHub** 
