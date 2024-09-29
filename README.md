@@ -19,6 +19,6 @@
 - **Git & GitHub**
 
 # The Output
-- **1**
+[first_query](/SQL/1_top_paying_job.sql)
   ![image alt](https://github.com/omarmaher0/Data-Project/blob/main/1.%20Top%20paying%20job.png)
   
